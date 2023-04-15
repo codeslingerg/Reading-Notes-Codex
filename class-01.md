@@ -5,6 +5,7 @@
 
 
 ***My client sent a request online for a page about the sea***
+
 ***The http should get it to the server by 3***
 
 HTML, JS, CSS are split into different requests.
