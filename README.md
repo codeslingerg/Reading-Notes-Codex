@@ -1,4 +1,4 @@
-# codexwithg.github.io
+# Class 01
 # Reading Notes
 ***Code 102 - Intro to Software Development***
 
