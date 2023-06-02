@@ -24,3 +24,17 @@ How does Grid layout differ from Flex?
 Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
 <br>
 ***Grid container is the direct parent of all the grid items. Grid item is the child of the grid container. Grid line are the vertical or horizontal dividing lines that make up the structure of the grid.***
+
+# Responsive Images
+
+Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
+ <br>
+ ***This makes the viewing pleasure for the user better to make the website experience more enjoyable.***
+ 
+Define the following <img> attributes srcset and sizes. Write an example of how they are used.
+<br>
+***srcset defines the set of images we will allow the browser to choose between, and what size each image is while sizes defines a set of media conditions (e.g. screen widths) and indicates what image size would be best to choose, when certain media conditions are true.***
+
+How is srcset more helpful for responsive images than CSS or JavaScript?
+<br>
+***scrset is more helpful for response images in that it can host multiple resolutions within HTML to determine the size of a photo.***
