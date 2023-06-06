@@ -13,7 +13,6 @@ Explain what the getContext() method does.
 ***getContext() takes one argument and allows you to draw shapes, text, images, and other objects***
 
 # Chart.js Documentation:
-
 What is Chart.js and how it can be brought into your project?
 <br>
 ***Chart.js provides a set of frequently used chart types, plugins, and customization options and is useful for providing charts to your webpage that are fully customizable.**
