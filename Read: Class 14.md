@@ -19,3 +19,14 @@ How does a CSS animation differ from a CSS transition?
 
 ***Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes***
 
+# 8 simple CSS3 transitions that will wow your users
+<br>
+
+What are some benefits to using CSS transitions on websites?
+
+***Using CSS Transitions on websites can help add a lot of personanility and interests to your website.***
+
+How this topic fit in with your long-term goals?
+
+***This topic will take my coding and design to the next level with creating visually expeceptional apps and websites.***
+
