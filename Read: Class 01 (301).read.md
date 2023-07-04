@@ -21,8 +21,9 @@ Advantages of component-based architecture are easy of deployment, reusable, red
 <br>
 ***How are props used in React?***
 <br>
-
+Props are using in React by defining an attribute and its value, then passing the value to child components, and then rendering the data. 
 <br>
 ***What is the flow of props?***
 <br>
+The flow of props is "class", "return", and then "render".
 <br>
