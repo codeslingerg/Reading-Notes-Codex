@@ -12,3 +12,17 @@ Characteristics of a component include reusability, replaceable, not context spe
 <br>
 Advantages of component-based architecture are easy of deployment, reusable, reduced cost, independent, ease of developement, system of maintenance, modification of technical complexity. 
 <br>
+
+# What is Props and How to Use it in React
+
+***What is “props” short for?***
+<br>
+"Props" is short for properties.
+<br>
+***How are props used in React?***
+<br>
+
+<br>
+***What is the flow of props?***
+<br>
+<br>
