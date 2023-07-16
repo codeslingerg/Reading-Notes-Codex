@@ -14,11 +14,15 @@ Once you have a static application, what do you need to add?
 
 What are the three questions you can ask to determine if something is state?
 
-******
+***Does it remain unchanged over time?***
+
+***Is it passed in from a parent via props?***
+
+***Can you compute it based on existing state or props in your component?***
 
 How can you identify where state needs to live?
 
-******
+***By identifying where the closest comment parent component lives.***
 
 # Higher-Order Functions
 
