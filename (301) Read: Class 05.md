@@ -1,4 +1,4 @@
-# React Docs - Thinking in React
+#  [React Docs - Thinking in React](https://react.dev/learn/thinking-in-react)
 
 What is the single responsibility principle and how does it apply to components?
 
@@ -24,7 +24,7 @@ How can you identify where state needs to live?
 
 ***By identifying where the closest comment parent component lives.***
 
-# Higher-Order Functions
+#  [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 
 What is a “higher-order function”?
 
