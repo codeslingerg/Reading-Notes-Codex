@@ -28,12 +28,12 @@ How can you identify where state needs to live?
 
 What is a “higher-order function”?
 
-******
+***Functions that operate on other functions, either by taking them as arguments or by returning them***
 
 Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 
-******
+***Line 2 is ensuring that greater than 10 will give the answer of 11 once it is rendered.***
 
 Explain how either map or reduce operates, with regards to higher-order functions.
 
-******
+***Map operates in that it transforms an array by applying a function to all of its elements and building a new array from the returned values***
