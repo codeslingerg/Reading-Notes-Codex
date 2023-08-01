@@ -23,3 +23,22 @@ The immutability is a state that cannot be changed after being created.
 What is Referential transparency?
 
 Referential transparency occurs when a function consistently yields the same result for the same input.
+
+[Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
+
+What is a module?
+
+A module is a section of code that is added in as a whole or is designed for easy reusability.
+
+What does the word ‘require’ do?
+
+Require resolves libraries and modules in the Node search path.
+
+How do we bring another module into the file the we are working in?
+
+You can bring another module into the file you work on by declaring it. 
+
+
+What do we have to do to make a module available?
+
+
