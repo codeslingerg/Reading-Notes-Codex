@@ -37,5 +37,13 @@ What is a ‘range error’?
 A range error occurs when you try to manipulate an object with some kind of length and give it an invalid length.
 
 What is a ‘type error’?
+
+A type error shows up when the types (number, string and so on) you are trying to use or access are incompatible, like accessing a property in an undefined type of variable.
+
 What is a breakpoint?
+
+A breakpoint is achieved by putting a debugger statement in your code in the line you want to break.
+
 What does the word ‘debugger’ do in your code?
+
+The word debugger does what its' name suggests and debugs your code and explains what is wrong with the code. 
