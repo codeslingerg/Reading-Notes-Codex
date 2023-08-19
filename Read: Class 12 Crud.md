@@ -16,8 +16,14 @@ What is a status code 202? This code tells the client that the request was valid
 
 What is a status code 308? This tells the client to use another URL to access the resource and not use the current URL anymore.
 
-What code would you use if an update didn’t return data to a client? 
+What code would you use if an update didn’t return data to a client?  
 
-What code would you use if a resource used to exist but no longer does?
+204 No Content
 
-What is the ‘Forbidden’ status code?
+What code would you use if a resource used to exist but no longer does? 
+
+410 Gone
+
+What is the ‘Forbidden’ status code? 
+
+The HTTP status code 403 Forbidden indicates that the server understood the request, but it refuses to authorize it. 
