@@ -26,9 +26,26 @@ Authentication is the process of verifying the identity of a user, system, or en
 
 What is Authorization Code Flow?
 
+The Authorization Code Flow is an authentication mechanism used in OAuth 2.0, a protocol widely used for securing and authorizing access to resources in web applications and APIs. 
+
 
 What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
+
+The Authorization Code Flow with Proof Key for Code Exchange (PKCE) is an enhanced version of the standard OAuth 2.0 Authorization Code Flow that adds an extra layer of security, primarily designed to protect against authorization code interception attacks.
+
+
 What is Implicit Flow with Form Post?
+
+The Implicit Flow with Form Post is a variant of the OAuth 2.0 Implicit Flow designed to enhance security for single-page applications (SPAs) by mitigating certain vulnerabilities associated with the traditional Implicit Flow. 
+
 What is Client Credentials Flow?
+
+The Client Credentials Flow is an OAuth 2.0 authentication flow used by confidential clients, such as server-to-server communication or trusted backend services, to obtain an access token from an authorization server without involving a user. 
+
 What is Device Authorization Flow?
+
+The Device Authorization Flow (also known as the Device Code Flow) is an OAuth 2.0 authentication flow designed for devices that have limited input capabilities, such as smart TVs, gaming consoles, and Internet of Things (IoT) devices. 
+
 What is Resource Owner Password Flow?
+
+The Resource Owner Password Credentials (ROPC) Flow is an OAuth 2.0 authentication flow that allows a trusted client application to directly obtain an access token by presenting the user's username and password to the authorization server. 
